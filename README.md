@@ -1,6 +1,5 @@
 ## Usage
-Once complete, insert GitHub Pages link here.
-
+To view my completed project click [here](https://jolbol1.github.io/excurison/)
 ## Project
 This proejct was completed as part of the Full-Stack developer course with Codecademy. The prompt is shown below.
 
