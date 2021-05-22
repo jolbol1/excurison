@@ -29,3 +29,7 @@ main p {
 footer p {
     text-align: right;
 }
+
+footer img {
+    margin-top: 30px;
+}
